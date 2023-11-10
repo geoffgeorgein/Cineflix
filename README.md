@@ -1,6 +1,6 @@
-# React + Vite
+# Cine Flix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A movie recommendation sysytem using Reactjs and Tmdb API.
 
 Currently, two official plugins are available:
 
